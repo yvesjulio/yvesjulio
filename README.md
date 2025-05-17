@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yvesjulio
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Bachelors degree in IT along side udemy full stck bootcamp and alx front end developer
+- 🌱 I’m currently learning Bachelors degree in IT along side udemy full stck bootcamp and TheGym coding Training
 - 💞️ I’m looking to collaborate so as to share skills and get involved in projects
 - 📫 How to reach me https://www.linkedin.com/in/yvesjulio/
 - 😄 Pronouns: He
